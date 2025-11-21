@@ -1,4 +1,4 @@
-# QTM 151 (Summer 2025) - Quiz 03
+# DATASCI 151 (Summer 2026) - Quiz 03
 
 ## Instructions
 
